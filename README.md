@@ -31,3 +31,6 @@ You can view the project by opening any HTML file in a web browser. For example:
 ---
 
 Enjoy the project! 😊🌿
+
+## LİNK
+("https://app.netlify.com/sites/scintillating-cupcake-3d2ba1/deploys/65a733cf5d5d2b53ee05c456")
